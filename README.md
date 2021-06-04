@@ -104,7 +104,4 @@ SSH into the control node and follow the steps below:
   The hosts file must be updated to specify the server elk will be installed on.
   https://[Your-elk-vm-ip]:5601/app/kibana
 
-_As a **Bonus**, provide the specific commands the user will need to run to download the playbook, update the files, etc._
- These are the commands needed to downlaod the playbook, update the files, etc.
-    curl -L -O https://artifacts.elastic.co/downloads/beats/filebeat/filebeat-7.4.0-amd64.deb.
-    ansible-playbook filebeat-playbook.yml 
+
