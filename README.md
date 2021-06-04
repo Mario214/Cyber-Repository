@@ -9,6 +9,7 @@ These files have been tested and used to generate a live ELK deployment on Azure
   
  - https://github.com/Mario214/Cyber-Repository/blob/main/Ansible/elk_playbook.yml
  - https://github.com/Mario214/Cyber-Repository/blob/main/Ansible/filebeat-playbook.yml
+ - https://github.com/Mario214/Cyber-Repository/blob/main/Ansible/Docker-Playbook.yml
 
 This document contains the following details:
 - Description of the Topology
