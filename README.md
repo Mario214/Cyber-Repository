@@ -3,7 +3,7 @@
 
 The files in this repository were used to configure the network depicted below.
 
-(~/Cyber-Repository/Diagrams/HW_Diagram)
+ - https://github.com/Mario214/Cyber-Repository/blob/main/Diagrams/HW%20DIagram%202.PNG
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the _yml__ file may be used to install only ce>
   
